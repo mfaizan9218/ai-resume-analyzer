@@ -1,6 +1,8 @@
 # AI Resume Analyzer
 
-An AI-powered Resume Analyzer built with a Bring Your Own AI (BYOAI) architecture that allows users to analyze resumes using their preferred AI provider.
+An AI-powered Resume Analyzer that helps users analyze resumes, identify skills, and receive personalized improvement suggestions using a Bring Your Own AI (BYOAI) architecture.
+
+Users can connect their preferred AI provider, including Google Gemini, OpenAI, and Anthropic Claude.
 
 ## ✨ Features
 
