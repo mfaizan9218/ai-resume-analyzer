@@ -25,7 +25,20 @@ Users can connect their preferred AI provider, including Google Gemini, OpenAI, 
 
 ## 📷 Screenshots
 
-Screenshots are available in the `screenshots` folder.
+### 🏠 Home Page
+![Home Page](ss/home.png)
+
+### 📄 Resume Upload
+![Resume Upload](ss/upload.png)
+
+### 🤖 AI Analysis Result
+![AI Analysis Result](ss/analysis-result.png)
+
+### ⚙️ AI Provider Settings
+![AI Provider Settings](ss/settings.png)
+
+### 📱 Mobile Responsive View
+![Mobile View](ss/mobile-view.png)
 
 ## 🎯 Purpose
 
