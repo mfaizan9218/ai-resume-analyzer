@@ -10,7 +10,7 @@ Users can connect their preferred AI provider, including Google Gemini, OpenAI, 
   - Google Gemini
   - OpenAI
   - Anthropic Claude
-- Resume analysis
+- Resume analysis workflow
 - Personalized improvement suggestions
 - Clean and responsive interface
 - Browser-based application
@@ -31,18 +31,22 @@ Users can connect their preferred AI provider, including Google Gemini, OpenAI, 
 ### 📄 Resume Upload
 ![Resume Upload](ss/upload.png)
 
-### 🤖 AI Analysis Result
-![AI Analysis Result](ss/analysis-result.png)
+## 🚧 Project Status
 
-### ⚙️ AI Provider Settings
-![AI Provider Settings](ss/settings.png)
-
-### 📱 Mobile Responsive View
-![Mobile View](ss/mobile-view.png)
+The frontend interface and BYOAI architecture are implemented. AI provider functionality requires a valid API key with available credits.
 
 ## 🎯 Purpose
 
 This project was created as part of my AI portfolio to demonstrate practical AI application development, prompt engineering, user interface design, and multi-provider AI integration.
+
+## ⚙️ Setup
+
+1. Clone this repository
+2. Open `index.html` in your browser
+3. Add your preferred AI provider API key
+4. Configure the AI provider connection
+
+Note: An active API key with available credits is required for AI functionality.
 
 ## 📄 License
 
